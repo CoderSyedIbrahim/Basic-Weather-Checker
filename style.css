@@ -1,0 +1,21 @@
+body {
+    padding-bottom: 100%;
+  }
+  
+  #nav {
+    text-align: center;
+  }
+  
+  #main {
+    text-align: center;
+    margin-top: 3rem;
+  }
+  
+  #cityName {
+    width: 30%;
+  }
+  
+  #display {
+    margin-top: 2rem;
+  }
+  
